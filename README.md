@@ -1,5 +1,7 @@
 QuestHub- platformt to host the Base Quests
 
 Video:
-[https://drive.google.com/file/d/1SP7LPBaD543OZVF7bUb7SttagT-qYKFo/view?usp=sharing](https://youtu.be/7D6HI8hmWIE)
+https://youtu.be/7D6HI8hmWIE
+
+[![DEMO](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=7D6HI8hmWIE)
 
