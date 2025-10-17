@@ -1,7 +1,3 @@
-QuestHub- platform to host the Base Quests
-
-
-
 
 # Base QuestHub
 
